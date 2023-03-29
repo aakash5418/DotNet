@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EmployeeService/1.0.0": {
+        "dependencies": {
+          "EmployeeDataAccess": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeService.dll": {}
+        }
+      },
+      "EmployeeDataAccess/1.0.0": {
+        "runtime": {
+          "EmployeeDataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeDataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

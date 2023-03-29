@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Aakash",
+    "Department": "IT",
+    "Dob": "11/04/1998",
+    "Address1": "Chennai",
+    "Address2": "triplicane",
+    "Salary": "2000"
+
+  },
+  {
+
+    "Id": 2,
+    "Name": "Ram",
+    "Department": "CS",
+    "Dob": "10/05/1997",
+    "Address1": "Salem",
+    "Address2": "bypass",
+    "Salary": "3000"
+  },
+  {
+
+    "Id": 3,
+    "Name": "Anbu",
+    "Department": "Mech",
+    "Dob": "09/03/1996",
+    "Address1": "Vellore",
+    "Address2": "Arcot",
+    "Salary": "4000"
+  }
+]
