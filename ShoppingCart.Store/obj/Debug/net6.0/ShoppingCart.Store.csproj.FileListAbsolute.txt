@@ -1,0 +1,24 @@
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.csproj.AssemblyReference.cache
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.AssemblyInfoInputs.cache
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.AssemblyInfo.cs
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.csproj.CoreCompileInputs.cache
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Store\bin\Debug\net6.0\ShoppingCart.Store.deps.json
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Store\bin\Debug\net6.0\ShoppingCart.Store.dll
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Store\bin\Debug\net6.0\ShoppingCart.Store.pdb
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.dll
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\refint\ShoppingCart.Store.dll
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.pdb
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ref\ShoppingCart.Store.dll
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Store\bin\Debug\net6.0\ShoppingCart.Store.deps.json
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Store\bin\Debug\net6.0\ShoppingCart.Store.dll
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Store\bin\Debug\net6.0\ShoppingCart.Store.pdb
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.csproj.AssemblyReference.cache
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.AssemblyInfoInputs.cache
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.AssemblyInfo.cs
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.csproj.CoreCompileInputs.cache
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.dll
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\refint\ShoppingCart.Store.dll
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ShoppingCart.Store.pdb
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Store\obj\Debug\net6.0\ref\ShoppingCart.Store.dll

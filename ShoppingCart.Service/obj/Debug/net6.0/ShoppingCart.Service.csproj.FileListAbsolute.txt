@@ -1,0 +1,30 @@
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.csproj.AssemblyReference.cache
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.AssemblyInfoInputs.cache
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.AssemblyInfo.cs
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.csproj.CoreCompileInputs.cache
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\bin\Debug\net6.0\ShoppingCart.Service.deps.json
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\bin\Debug\net6.0\ShoppingCart.Service.dll
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\bin\Debug\net6.0\ShoppingCart.Service.pdb
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\bin\Debug\net6.0\ShoppingCart.Store.dll
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\bin\Debug\net6.0\ShoppingCart.Store.pdb
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.csproj.CopyComplete
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.dll
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\refint\ShoppingCart.Service.dll
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.pdb
+C:\DemoShoppingCart\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ref\ShoppingCart.Service.dll
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\bin\Debug\net6.0\ShoppingCart.Service.deps.json
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\bin\Debug\net6.0\ShoppingCart.Service.dll
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\bin\Debug\net6.0\ShoppingCart.Service.pdb
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\bin\Debug\net6.0\ShoppingCart.Store.dll
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\bin\Debug\net6.0\ShoppingCart.Store.pdb
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.csproj.AssemblyReference.cache
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.AssemblyInfoInputs.cache
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.AssemblyInfo.cs
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.csproj.CoreCompileInputs.cache
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.csproj.CopyComplete
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.dll
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\refint\ShoppingCart.Service.dll
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ShoppingCart.Service.pdb
+D:\Aakash203\C#\Induction Devops\ShoppingCart.WebApi\ShoppingCart.Service\obj\Debug\net6.0\ref\ShoppingCart.Service.dll
